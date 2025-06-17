@@ -5,4 +5,5 @@ Effective inventory and sales managment are critical for optimizing profitabilit
 3. Determine top brands contributing to sales.
 4. Identify maximum contributing vendors.
 5. Getting insights into inventory management through key indicators.
+
 This project is made using python, SQL and Power Bi. 
