@@ -4,4 +4,4 @@ Effictive inventory and sales managment are critical for optimizing profitabilit
 2. Determine top vendors contributing to sales.
 3. Determine top brands contributing to sales.
 4. Identify maximum contributing vendors.
-5. Getting insites into inventory management through indicators like unsold capital.
+5. Getting insites into inventory management through key indicators.
